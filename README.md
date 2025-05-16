@@ -1,4 +1,4 @@
-## oi eu sou a Edilene 👋
+## oi sou a Edilene 👋
 
 <!--
 **santos12e/santos12e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
